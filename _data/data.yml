@@ -110,7 +110,7 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: MixCo: Mix-up Contrastive Learning for Visual Representation
+      - title: MixCo Mix-up Contrastive Learning for Visual Representation
         link: "https://arxiv.org/abs/2010.06300"
         authors: S. Kim, G. Lee, S. Bae, S-Y. Yun
         conference: NeurIPS Workshop on SSL, 2020
