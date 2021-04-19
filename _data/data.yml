@@ -50,6 +50,9 @@ sidebar:
         
       - item: Traveling
         link:
+        
+      - item: Basketball
+        link:
 
 #career-profile:
 #    title: Career Profile
@@ -89,7 +92,7 @@ experiences:
           - Pruning
           - Knowledge Distillation
     - role: Teaching Assistant
-      time: 2020 - Present
+      time: 2020.03 - Present
       company: Graduate School of AI, KAIST
       details: |
           - Deep Learning (AI502)
@@ -103,7 +106,7 @@ projects:
         link: 
         tagline: "SK Hynix (2020.03 - 2020.12)"
       
-      - title: Uncertainty modeling and correction for safe AI
+      - title: Uncertainty modeling and calibration for safe AI
         link: 
         tagline: "Venture Research Program for Graduate and PhD students, KAIST (2020.04 - 2020.12)"
 
