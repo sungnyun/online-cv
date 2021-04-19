@@ -98,12 +98,16 @@ experiences:
 projects:
     title: Projects
     intro: |
-    assignments:
-      - title: Data Efficient Unsupervised Representation Learning
+    assignments:        
+      - title: Data efficient unsupervised representation learning
         link: 
         tagline: "SK Hynix (2020.03 - 2020.12)"
+      
+      - title: Uncertainty modeling and correction for safe AI
+        link: 
+        tagline: "Venture Research Program for Graduate and PhD students (2020.04 - 2020.12)"
 
-      - title: Semantic Segmentation Error Detection
+      - title: Semantic segmentation error detection
         link: 
         tagline: "SK Hynix (2021.02 - 2021.07)"
 publications:
