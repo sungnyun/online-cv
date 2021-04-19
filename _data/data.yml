@@ -84,8 +84,8 @@ experiences:
       company: LG-KAIST Advanced AI Course
       details: |
         Review, Q&A session, implementation, and demo for the papers with following topics:
-          - Pruning
-          - Knowledge Distillation
+          - [Pruning](https://github.com/sungnyun/LG-pruning)
+          - [Knowledge Distillation](https://github.com/sungnyun/LG-knowledge-distillation)
     - role: Teaching Assistant
       time: 2020.03 - Present
       company: Graduate School of AI, KAIST
@@ -98,7 +98,7 @@ projects:
     intro: |
     assignments:        
       - title: Data efficient unsupervised representation learning
-        link: 
+        link: "https://github.com/sungnyun/Mixco-Mixup-Contrast"
         tagline: "SK Hynix (2020.03 - 2020.12)"
       
       - title: Uncertainty modeling and calibration for safe AI
@@ -121,12 +121,15 @@ skills:
 
     toolset:
       - name: Python 
-        level: 90%
+        level: 80%
         
       - name: PyTorch
-        level: 90%
-        
+        level: 80%
+   
       - name: TensorFlow
+        level: 30%
+        
+      - name: Math
         level: 50%
 
 #footer: >
