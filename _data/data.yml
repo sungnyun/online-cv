@@ -97,7 +97,7 @@ experiences:
           - Machine Learning Theory (AI603)
 projects:
     title: Projects
-    intro: >
+    intro: |
     assignments:
       - title: Data Efficient Unsupervised Representation Learning
         link: ""
