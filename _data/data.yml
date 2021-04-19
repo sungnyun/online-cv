@@ -100,11 +100,11 @@ projects:
     intro: |
     assignments:
       - title: Data Efficient Unsupervised Representation Learning
-        link: ""
+        link: 
         tagline: "SK Hynix (2020.03 - 2020.12)"
 
       - title: Semantic Segmentation Error Detection
-        link: ""
+        link: 
         tagline: "SK Hynix (2021.02 - 2021.07)"
 publications:
     title: Publications
