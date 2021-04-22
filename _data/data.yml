@@ -131,6 +131,9 @@ skills:
    
       - name: TensorFlow
         level: 20%
+        
+      - name: Server Management
+        level: 20%
 
 
 #footer: >
