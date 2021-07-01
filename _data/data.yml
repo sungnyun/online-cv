@@ -113,10 +113,16 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Self-Contrastive Learning"
+        link: "https://arxiv.org/abs/2106.15499"
+        authors: S. Bae, Sungnyun Kim*, J. Ko*, G. Lee, S. Noh, S-Y. Yun
+        conference: Preprint
+
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         link: "https://arxiv.org/abs/2010.06300"
-        authors: S. Kim, G. Lee, S. Bae, S-Y. Yun
+        authors: Sungnyun Kim*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020
+        
 skills:
     title: Skills &amp; Proficiency
 
