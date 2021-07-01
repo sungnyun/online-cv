@@ -62,11 +62,16 @@ sidebar:
 #      Donec quam felis, ultricies nec, pellentesque eu.
 #      Second paragraph if required.
 education:
-    - degree: M.S. in Graduate School of AI
+    - degree: Ph.D. in Graduate School of AI
       university: KAIST (Korea Advanced Institute of Science and Technology)
-      time: 2019 - Present
+      time: 2021 - Present
       details: |
         Under the supervision of Professor [Se-Young Yun](https://fbsqkd.github.io/)
+    - degree: M.S. in Graduate School of AI
+      university: KAIST (Korea Advanced Institute of Science and Technology)
+      time: 2019 - 2021
+      details: |
+        (Thesis) Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch
     - degree: B.S. in Chemical and Biomolecular Engineering
       university: KAIST (Korea Advanced Institute of Science and Technology)
       time: 2015 - 2019
@@ -108,7 +113,12 @@ projects:
 
       - title: Semantic segmentation error detection
         link: 
-        tagline: "SK Hynix (2021.02 - 2021.07)"
+        tagline: "SK Hynix (2021.02 - 2021.08)"
+        
+      - title: (XAI based) Infectious disease spread modeling
+        link:
+        tagline: "Institute for Security Convergence Research (ISCR, 2021.07 - 2021.12)"
+        
 publications:
     title: Publications
     intro: |
