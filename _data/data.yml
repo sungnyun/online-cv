@@ -126,7 +126,7 @@ publications:
       - title: "Self-Contrastive Learning"
         link: "https://arxiv.org/abs/2106.15499"
         authors: S. Bae, <b>Sungnyun Kim</b>*, J. Ko*, G. Lee, S. Noh, S-Y. Yun
-        conference: Preprint
+        conference: Preprint, 2021
 
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         link: "https://arxiv.org/abs/2010.06300"
