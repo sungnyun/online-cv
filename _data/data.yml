@@ -84,7 +84,7 @@ experiences:
       time: 2020.11 - 2020.11
       company: LG-KAIST Advanced AI Course
       details: |
-        Review, Q&A session, implementation, and demo for the papers with following topics:
+        Review, implementation, and demo for the papers with following topics:
           - [Pruning](https://github.com/sungnyun/LG-pruning)
           - [Knowledge Distillation](https://github.com/sungnyun/LG-knowledge-distillation)
     - role: Teaching Assistant
@@ -115,12 +115,12 @@ publications:
     papers:
       - title: "Self-Contrastive Learning"
         link: "https://arxiv.org/abs/2106.15499"
-        authors: S. Bae, <b>Sungnyun Kim*</b>, J. Ko*, G. Lee, S. Noh, S-Y. Yun
+        authors: S. Bae, <b>Sungnyun Kim</b>*, J. Ko*, G. Lee, S. Noh, S-Y. Yun
         conference: Preprint
 
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         link: "https://arxiv.org/abs/2010.06300"
-        authors: Sungnyun Kim*, G. Lee*, S. Bae*, S-Y. Yun
+        authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020
         
 skills:
