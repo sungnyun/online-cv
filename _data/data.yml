@@ -132,7 +132,7 @@ publications:
         link: "https://arxiv.org/abs/2010.06300"
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
-                    [[code](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)]
+                    [code](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)
         
 skills:
     title: Skills &amp; Proficiency
