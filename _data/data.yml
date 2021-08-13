@@ -112,11 +112,11 @@ projects:
         tagline: "Venture Research Program for Graduate and PhD students, KAIST (2020.04 - 2020.12)"
 
       - title: Semantic segmentation error detection
-        link: 
-        tagline: "SK Hynix (2021.02 - 2021.08)"
+        link: "https://github.com/sungnyun/hynix-segmentation"
+        tagline: "SK Hynix (2021.02 - 2021.09)"
         
       - title: (XAI based) Infectious disease spread modeling
-        link:
+        link: "https://github.com/sungnyun/epidemic-modeling"
         tagline: "Institute for Security Convergence Research (ISCR, 2021.07 - 2021.12)"
         
 publications:
