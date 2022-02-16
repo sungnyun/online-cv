@@ -93,14 +93,18 @@ experiences:
       time: 2021.10 - 2021.10
       company: LG Vision Intelligence Course
       details: |
-        Teaching and implementation for computer vision tasks | <a href="https://github.com/raymin0223/LG-Vision-Academy">[code]</a>
+        Teaching and implementation for computer vision tasks | 
+        <a href="https://github.com/raymin0223/LG-Vision-Academy">[code]</a>
     - role: Teaching Assistant
       time: 2020.03 - Present
       company: Graduate School of AI, KAIST
       details: |
-          - Deep Learning (AI502) | <a href="https://www.youtube.com/watch?v=4kzIHr_eNy4&list=PLsQI3WOaT8hjPRvPVM4gQHV2im1y3nlXu">[video]<\a>
-          - Optimization for AI (AI505) | <a href="https://www.youtube.com/watch?v=95QPCermh7E&list=PLsQI3WOaT8hjGn4fZ_ANIqGRDtK_xpSjB">[video]<\a>
-          - Machine Learning Theory (AI603) | <a href="https://www.youtube.com/watch?v=9Al_TLemAmI&list=PLsQI3WOaT8hgDPRY9k_RV1wnZ9r0W7CW4">[video]<\a>
+          - Deep Learning (AI502) | 
+            <a href="https://www.youtube.com/watch?v=4kzIHr_eNy4&list=PLsQI3WOaT8hjPRvPVM4gQHV2im1y3nlXu">[video]</a>
+          - Optimization for AI (AI505) | 
+            <a href="https://www.youtube.com/watch?v=95QPCermh7E&list=PLsQI3WOaT8hjGn4fZ_ANIqGRDtK_xpSjB">[video]</a>
+          - Machine Learning Theory (AI603) | 
+            <a href="https://www.youtube.com/watch?v=9Al_TLemAmI&list=PLsQI3WOaT8hgDPRY9k_RV1wnZ9r0W7CW4">[video]</a>
 projects:
     title: Projects
     intro: |
