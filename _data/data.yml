@@ -110,7 +110,7 @@ projects:
     intro: |
     assignments:        
       - title: Data efficient unsupervised representation learning
-        link: "https://github.com/Lee-Gihun/MixCo-Mixup-Contrast"
+        link: "https://github.com/sungnyun/MixCo-Mixup-Contrastive"
         tagline: "SK Hynix (2020.03 - 2020.12)"
       
       - title: Uncertainty modeling and calibration for safe AI
@@ -147,7 +147,7 @@ publications:
         link: "https://arxiv.org/abs/2010.06300"
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
-                    <a href="https://github.com/Lee-Gihun/MixCo-Mixup-Contrast">[code]</a>
+                    <a href="https://github.com/sungnyun/MixCo-Mixup-Contrastive">[code]</a>
         
 skills:
     title: Skills &amp; Proficiency
