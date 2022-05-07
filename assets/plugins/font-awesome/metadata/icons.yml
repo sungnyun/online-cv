@@ -2339,7 +2339,7 @@ circle:
     - solid
     - regular
   unicode: f111
-circle-book-open:
+book-circle:
   changes:
     - 6.0.0
   label: Circle Book Open
