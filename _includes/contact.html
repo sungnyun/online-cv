@@ -84,6 +84,12 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.scholar %}
+    <li class="scholar"><i class="fas fa-book-circle"></i>
+      <a href="https://scholar.google.co.kr/citations?user=DsWny60AAAAJ&hl=en">{{ sidebar.scholar }}</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
