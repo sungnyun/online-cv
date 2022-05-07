@@ -17,6 +17,7 @@ sidebar:
     website: #do not add http://
     linkedin: 
     xing: 
+    scholar: Scholar
     github: sungnyun
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -25,7 +26,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    scholar: Scholar
 
     languages:
       - idiom: Korean
