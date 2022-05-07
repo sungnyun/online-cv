@@ -2339,6 +2339,16 @@ circle:
     - solid
     - regular
   unicode: f111
+circle-book-open:
+  changes:
+    - 6.0.0
+  label: Circle Book Open
+  search:
+    terms:
+      - circle-book-open
+  styles:
+    - solid
+  unicode: e0ff
 circle-notch:
   changes:
     - '4.1'
