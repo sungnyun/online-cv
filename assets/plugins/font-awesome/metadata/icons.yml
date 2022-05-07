@@ -2339,13 +2339,13 @@ circle:
     - solid
     - regular
   unicode: f111
-book-circle:
+circle-book-open:
   changes:
     - 6.0.0
   label: Circle Book Open
   search:
     terms:
-      - circle-book-open
+      - writing
   styles:
     - solid
   unicode: e0ff
