@@ -132,7 +132,7 @@ projects:
         
 publications:
     title: Publications
-    intro: |
+    intro: | (*: Equal contribution)
     papers:
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: ""
