@@ -134,14 +134,24 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
+        link: ""
+        authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
+        conference: Preprint, 2022
+      
+      - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
+        link: "https://arxiv.org/abs/2205.05282"
+        authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
+        conference: Preprint, 2022
+      
       - title: "Understanding Cross-Domain Few-Shot Learning: An Experimental Study"
         link: "https://arxiv.org/abs/2202.01339"
-        authors: <b>Sungnyun Kim</b>*, J. Oh*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
+        authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
         conference: Preprint, 2022
         
       - title: "Self-Contrastive Learning: An Efficient Supervised Contrastive Framework with Single-view and Sub-network"
         link: "https://arxiv.org/abs/2106.15499"
-        authors: <b>Sungnyun Kim</b>*, S. Bae*, J. Ko, G. Lee, S. Noh, S-Y. Yun
+        authors: S. Bae*, <b>Sungnyun Kim</b>*, J. Ko, G. Lee, S. Noh, S-Y. Yun
         conference: Preprint, 2021
 
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
