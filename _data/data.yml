@@ -68,8 +68,7 @@ education:
     - degree: M.S. in Graduate School of AI
       university: KAIST (Korea Advanced Institute of Science and Technology)
       time: 2019 - 2021
-      details: |
-        [Thesis] Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch
+      details: | #[Thesis] Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch
     - degree: B.S. in Chemical and Biomolecular Engineering
       university: KAIST (Korea Advanced Institute of Science and Technology)
       time: 2015 - 2019
@@ -135,6 +134,11 @@ publications:
     intro: |
       (* : Equal contribution)
     papers:
+      - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
+        link: ""
+        authors: <b>Sungnyun Kim</b>, S-Y. Yun
+        conference: IEEE Access, vol. 10, 2022
+        
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: ""
         authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
