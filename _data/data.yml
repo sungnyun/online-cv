@@ -135,14 +135,13 @@ publications:
       (* : Equal contribution)
     papers:
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
-        link: ""
         authors: <b>Sungnyun Kim</b>, S-Y. Yun
         conference: IEEE Access, vol. 10, 2022
         
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
-        link: ""
         authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
-        conference: Preprint, 2022
+        conference: Preprint, 2022 |
+                    <a href="https://arxiv.org/abs/2205.07874">[pdf]</a>
       
       - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
         link: "https://arxiv.org/abs/2205.05282"
@@ -160,9 +159,9 @@ publications:
         conference: Preprint, 2021
 
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
-        link: "https://arxiv.org/abs/2010.06300"
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
+                    <a href="https://arxiv.org/abs/2010.06300">[pdf]</a> |
                     <a href="https://github.com/sungnyun/MixCo-Mixup-Contrastive">[code]</a>
         
 skills:
