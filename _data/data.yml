@@ -87,8 +87,10 @@ experiences:
       company: LG-KAIST Advanced AI Course
       details: |
         Review, implementation, and demo for the papers with following topics:
-          - [Pruning](https://github.com/sungnyun/LG-pruning)
-          - [Knowledge Distillation](https://github.com/sungnyun/LG-knowledge-distillation)
+          - Pruning |
+            <a href="https://github.com/sungnyun/LG-pruning">[code]</a>
+          - Knowledge Distillation |
+            <a href="https://github.com/sungnyun/LG-knowledge-distillation">[code]</a>
     - role: Staff Assistant
       time: 2021.10 - 2021.10
       company: LG Vision Intelligence Course
@@ -135,34 +137,40 @@ publications:
       (* : Equal contribution)
     papers:
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
+        link: ""
         authors: <b>Sungnyun Kim</b>, S-Y. Yun
         conference: IEEE Access, vol. 10, 2022
         
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
+        link: ""
         authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
         conference: Preprint, 2022 |
                     <a href="https://arxiv.org/abs/2205.07874">[pdf]</a>
       
       - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
-        link: "https://arxiv.org/abs/2205.05282"
+        link: ""
         authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
-        conference: Preprint, 2022
+        conference: Preprint, 2022 |
+                    <a href="https://arxiv.org/abs/2205.05282">[pdf]</a>
       
       - title: "Understanding Cross-Domain Few-Shot Learning: An Experimental Study"
-        link: "https://arxiv.org/abs/2202.01339"
+        link: ""
         authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
-        conference: Preprint, 2022
+        conference: Preprint, 2022 |
+                    <a href="https://arxiv.org/abs/2202.01339">[pdf]</a>
         
       - title: "Self-Contrastive Learning: An Efficient Supervised Contrastive Framework with Single-view and Sub-network"
-        link: "https://arxiv.org/abs/2106.15499"
+        link: ""
         authors: S. Bae*, <b>Sungnyun Kim</b>*, J. Ko, G. Lee, S. Noh, S-Y. Yun
-        conference: Preprint, 2021
+        conference: Preprint, 2021 |
+                    <a href="https://arxiv.org/abs/2106.15499">[pdf]</a>
 
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
+        link: ""
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
                     <a href="https://arxiv.org/abs/2010.06300">[pdf]</a>
-                    <a href="https://github.com/sungnyun/MixCo-Mixup-Contrastive">[code]</a>
+                    <a href="https://github.com/Lee-Gihun/MixCo-Mixup-Contrast">[code]</a>
         
 skills:
     title: Skills &amp; Proficiency
