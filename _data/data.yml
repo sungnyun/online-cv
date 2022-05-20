@@ -161,7 +161,7 @@ publications:
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
         conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
-                    <a href="https://arxiv.org/abs/2010.06300">[pdf]</a> |
+                    <a href="https://arxiv.org/abs/2010.06300">[pdf]</a>
                     <a href="https://github.com/sungnyun/MixCo-Mixup-Contrastive">[code]</a>
         
 skills:
