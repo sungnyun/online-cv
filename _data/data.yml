@@ -140,7 +140,7 @@ publications:
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
         link: "https://ieeexplore.ieee.org/document/9777704"
         authors: <b>Sungnyun Kim</b>, S-Y. Yun
-        conference: IEEE Access, vol. 10, 2022, doi: 10.1109/ACCESS.2022.3176090 | 
+        conference: "IEEE Access, vol. 10, 2022, doi: 10.1109/ACCESS.2022.3176090" | 
                     <a href="https://ieeexplore.ieee.org/document/9777704">[paper]</a>
                     <a href="https://github.com/sungnyun/TaskCalibration-FSC">[code]</a>
         
