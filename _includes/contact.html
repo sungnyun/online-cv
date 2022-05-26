@@ -12,6 +12,12 @@
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.building %}
+    <li class="building"><i class="fa-regular fa-building"></i>
+      <a href="http://{{ sidebar.building }}">{{ sidebar.building }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
