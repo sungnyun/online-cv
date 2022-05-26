@@ -140,7 +140,7 @@ publications:
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
         link: "https://ieeexplore.ieee.org/document/9777704"
         authors: <b>Sungnyun Kim</b>, S-Y. Yun
-        conference: IEEE Access, vol. 10, 2022 | 
+        conference: IEEE Access, vol. 10, 2022, doi: 10.1109/ACCESS.2022.3176090 | 
                     <a href="https://ieeexplore.ieee.org/document/9777704">[paper]</a>
                     <a href="https://github.com/sungnyun/TaskCalibration-FSC">[code]</a>
         
@@ -171,7 +171,7 @@ publications:
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         link: "https://arxiv.org/abs/2010.06300"
         authors: <b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun
-        conference: Neural Information Processing Systems (NeurIPS) Workshop on SSL, 2020 |
+        conference: Neural Information Processing Systems (NeurIPS) Workshop on Self-Supervised Learning - Theory and Practice, 2020 |
                     <a href="https://arxiv.org/abs/2010.06300">[paper]</a>
                     <a href="https://github.com/Lee-Gihun/MixCo-Mixup-Contrast">[code]</a>
         
