@@ -134,8 +134,7 @@ projects:
         
 publications:
     title: Publications
-    intro: |
-      (* : Equal contribution)
+    intro: "(* : Equal contribution)"
     papers:
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
         link: "https://ieeexplore.ieee.org/document/9777704"
