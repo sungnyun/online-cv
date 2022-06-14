@@ -136,24 +136,24 @@ publications:
     title: Publications
     intro: "(* : Equal contribution)"
     papers:
+      - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
+        link: "https://arxiv.org/abs/2205.07874"
+        authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
+        conference: International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning, 2022 (Oral paper) |
+                    <a href="https://arxiv.org/abs/2205.07874">[paper]</a>
+      
+      - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
+        link: "https://arxiv.org/abs/2205.05282"
+        authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
+        conference: International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning, 2022 |
+                    <a href="https://arxiv.org/abs/2205.05282">[paper]</a>
+      
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
         link: "https://ieeexplore.ieee.org/document/9777704"
         authors: <b>Sungnyun Kim</b>, S-Y. Yun
         conference: IEEE Access, vol. 10, pp. 53894-53908, 2022 | 
                     <a href="https://ieeexplore.ieee.org/document/9777704">[paper]</a>
                     <a href="https://github.com/sungnyun/TaskCalibration-FSC">[code]</a>
-        
-      - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
-        link: "https://arxiv.org/abs/2205.07874"
-        authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun
-        conference: Preprint, 2022 |
-                    <a href="https://arxiv.org/abs/2205.07874">[paper]</a>
-      
-      - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
-        link: "https://arxiv.org/abs/2205.05282"
-        authors: J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun
-        conference: Preprint, 2022 |
-                    <a href="https://arxiv.org/abs/2205.05282">[paper]</a>
       
       - title: "Understanding Cross-Domain Few-Shot Learning: An Experimental Study"
         link: "https://arxiv.org/abs/2202.01339"
