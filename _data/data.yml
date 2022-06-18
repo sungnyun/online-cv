@@ -138,7 +138,7 @@ publications:
     papers:
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: "https://arxiv.org/abs/2205.07874"
-        authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun "(* Equal contribution)"
+        authors: Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun </i><small>(* Equal contribution)</small><i>
         conference: International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning, 2022 (Oral paper) |
                     <a href="https://arxiv.org/abs/2205.07874">[paper]</a>
       
