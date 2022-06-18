@@ -139,13 +139,13 @@ publications:
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: "https://arxiv.org/abs/2205.07874"
         authors: "Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning, 2022 (Oral paper) |
+        conference: <i>International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning</i>, 2022 (Oral paper) |
                     <a href="https://arxiv.org/abs/2205.07874">[paper]</a>
       
       - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
         link: "https://arxiv.org/abs/2205.05282"
         authors: "J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning, 2022 |
+        conference: <i>International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning</i>, 2022 |
                     <a href="https://arxiv.org/abs/2205.05282">[paper]</a>
       
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
@@ -170,7 +170,7 @@ publications:
       - title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
         link: "https://arxiv.org/abs/2010.06300"
         authors: "<b>Sungnyun Kim</b>*, G. Lee*, S. Bae*, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: Neural Information Processing Systems (NeurIPS) Workshop on Self-Supervised Learning - Theory and Practice, 2020 |
+        conference: <i>Neural Information Processing Systems (NeurIPS) Workshop on Self-Supervised Learning - Theory and Practice</i>, 2020 |
                     <a href="https://arxiv.org/abs/2010.06300">[paper]</a>
                     <a href="https://github.com/Lee-Gihun/MixCo-Mixup-Contrast">[code]</a>
         
