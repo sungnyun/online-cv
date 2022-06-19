@@ -136,6 +136,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Real-time and Explainable Detection of Epidemics with Global News Data"
+        link: ""
+        authors: "<b>Sungnyun Kim</b>*, J. Shin*, S. Eom, J. Oh, S-Y. Yun <small>(*: equal contribution)</small>"
+        conference: <i>Proceedings of ICML Workshop on Healthcare AI and COVID-19</i>, PMLR, 2022 (TBA)
+        
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: "https://arxiv.org/abs/2205.07874"
         authors: "Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun <small>(*: equal contribution)</small>"
