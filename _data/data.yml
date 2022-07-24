@@ -137,9 +137,10 @@ publications:
     intro: |
     papers:
       - title: "Real-time and Explainable Detection of Epidemics with Global News Data"
-        link: ""
+        link: "https://proceedings.mlr.press/v184/kim22a.html"
         authors: "<b>Sungnyun Kim</b>*, J. Shin*, S. Eom, J. Oh, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: <i>Proceedings of ICML Workshop on Healthcare AI and COVID-19</i>, PMLR, 2022 (TBA)
+        conference: <i>Proceedings of the 1st Workshop on Healthcare AI and COVID-19, ICML 2022</i>, PMLR 184:73-90, 2022 |
+                    <a href="https://proceedings.mlr.press/v184/kim22a.html">[paper]</a>
         
       - title: "Revisiting the Updates of a Pre-trained Model for Few-shot Learning"
         link: "https://arxiv.org/abs/2205.07874"
@@ -195,7 +196,7 @@ skills:
       - name: TensorFlow
         level: 20%
         
-      - name: Server Management
+      - name: Linux &amp; Server Management
         level: 20%
 
 
