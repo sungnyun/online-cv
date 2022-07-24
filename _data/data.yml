@@ -41,11 +41,17 @@ sidebar:
     interests:
       - item: Unsupervised Deep Learning
         link:
-
-      - item: Computer Vision
+        
+      - item: Self-Supervised Learning
         link:
         
-      - item: Optimization
+      - item: Few-Shot Learning
+        link:
+
+      - item: Graph Neural Networks
+        link:
+
+      - item: Optimization for Computer Vision
         link:
         
       - item: "Traveling :)"
@@ -78,6 +84,11 @@ education:
         |
         Double major in Industrial and Systems Engineering
 experiences:
+    - role: Research Internship
+      time: 2018.07 - 2019.06
+      company: Optimization and Statistical Lab, KAIST
+      details: |
+        Research on deep meta-learning
     - role: Research Internship
       time: 2017.12 - 2018.01
       company: SK Hynix
@@ -187,18 +198,20 @@ skills:
     toolset:
       - name: Math &amp; Analysis
         level: 80%
-        
+
+      - name: Linux
+        level: 50%
+
       - name: Python 
         level: 80%
         
       - name: PyTorch
         level: 80%
-   
+
       - name: TensorFlow
         level: 20%
         
-      - name: Linux &amp; Server Management
-        level: 20%
+
 
 
 #footer: >
