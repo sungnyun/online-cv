@@ -147,10 +147,16 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
+        link: "https://arxiv.org/abs/2205.05282"
+        authors: "J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun <small>(*: equal contribution)</small>"
+        conference: <i>Proceedings of the 31th ACM International Conference on Information &amp; Knowledge Management (CIKM)</i>, 2022 |
+                    <a href="https://arxiv.org/abs/2205.05282">[paper]</a>
+                    
       - title: "Real-time and Explainable Detection of Epidemics with Global News Data"
         link: "https://proceedings.mlr.press/v184/kim22a.html"
         authors: "<b>Sungnyun Kim</b>*, J. Shin*, S. Eom, J. Oh, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: <i>Proceedings of the 1st Workshop on Healthcare AI and COVID-19, ICML 2022</i>, PMLR 184:73-90, 2022 |
+        conference: <i>Workshop on Healthcare AI and COVID-19</i>, PMLR 184:73-90, 2022 |
                     <a href="https://proceedings.mlr.press/v184/kim22a.html">[paper]</a>
                     <a href="https://github.com/sungnyun/Epidemics-Detection-GKG">[code]</a>
         
@@ -159,12 +165,6 @@ publications:
         authors: "Y. Kim*, J. Oh*, <b>Sungnyun Kim</b>, S-Y. Yun <small>(*: equal contribution)</small>"
         conference: <i>International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning</i>, 2022 (Oral paper) |
                     <a href="https://arxiv.org/abs/2205.07874">[paper]</a>
-      
-      - title: "ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning"
-        link: "https://arxiv.org/abs/2205.05282"
-        authors: "J. Oh*, <b>Sungnyun Kim</b>*, N. Ho*, J-H. Kim, H. Song, S-Y. Yun <small>(*: equal contribution)</small>"
-        conference: <i>International Conference on Machine Learning (ICML) Workshop on Updatable Machine Learning</i>, 2022 |
-                    <a href="https://arxiv.org/abs/2205.05282">[paper]</a>
       
       - title: "Calibration of Few-Shot Classification Tasks: Mitigating Misconfidence from Distribution Mismatch"
         link: "https://ieeexplore.ieee.org/document/9777704"
